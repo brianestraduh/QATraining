@@ -10,3 +10,6 @@ As the fellowship breaks, Frodo continues toward Mount Doom with Samwise Gamgee 
 Meanwhile, epic battles unfold as the forces of good rally to distract Sauron’s eye.
 
 In the end, Frodo succeeds in destroying the ring, bringing peace to the realm and fulfilling his perilous quest.
+
+
+Brian'd first edit.
