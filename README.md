@@ -14,3 +14,5 @@ In the end, Frodo succeeds in destroying the ring, bringing peace to the realm a
 
 Brian'd first edit.
  Jheimy's first edit 
+
+Mariel 3/28 - Adding some comments to start working on Git training
